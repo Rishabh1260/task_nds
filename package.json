@@ -1,0 +1,14 @@
+{
+  "name": "task_nds",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend developer task",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
